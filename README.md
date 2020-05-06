@@ -25,7 +25,7 @@ Its simple you can:
 * run the sql file also in mysql
 * then it should work
 
-![ProfileImage] (https://media.giphy.com/media/iDTnfocthmuKCBEuBG/giphy.gif)
+![Alt Text](https://media.giphy.com/media/iDTnfocthmuKCBEuBG/giphy.gif)
 Have fun with it.
 
 If need anything ask your best friends GOOGLE he is available 24/7.
